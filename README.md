@@ -1,1 +1,3 @@
-More data and code to be added soon
+This repository contains the code for the paper called:
+
+Transformer-Based Quantification of the Echo Chamber Effect in Online Communities
