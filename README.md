@@ -8,3 +8,5 @@ python == 3.10
 networkx == 3.2.1
 pandas
 ```
+
+This project was funded by COMET.
